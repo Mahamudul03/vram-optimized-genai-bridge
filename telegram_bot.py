@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Cal
 
 # --- CONFIGURATION ---
 TOKEN = " Your Token" 
-SD_API_URL = "http://127.0.0.1:7860"
+SD_API_URL = "http://1ip0"
 PROXY_URL = None # Set to your proxy URL if NOT using a system VPN
 
 if PROXY_URL:
