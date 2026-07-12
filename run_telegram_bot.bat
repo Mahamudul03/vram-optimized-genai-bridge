@@ -9,7 +9,7 @@ echo.
 G:
 
 :: Navigate to your project folder
-cd "G:\experiments\img_gen\stable-diffusion-webui"
+cd " Location "
 
 :: Run the bot using your virtual environment's Python
 venv\Scripts\python.exe telegram_bot.py
