@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 # --- CONFIGURATION ---
-TOKEN = "8854171441:AAHtnOiDhBPlPufqKN9wWLKZrEJJfo4Nbo0" 
+TOKEN = " Your Token" 
 SD_API_URL = "http://127.0.0.1:7860"
 PROXY_URL = None # Set to your proxy URL if NOT using a system VPN
 
